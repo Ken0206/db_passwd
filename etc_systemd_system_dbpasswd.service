@@ -4,9 +4,9 @@ After=getty.target
 
 [Service]
 Type=simple
-Restart=always
+Restart=idle
 ExecStart=/root/db_passwd/db_passwd.sh
-TimeoutSec=0
+TimeoutSec=10
 
 [Install]
 WantedBy=multi-user.target
