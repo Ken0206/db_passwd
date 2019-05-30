@@ -63,8 +63,8 @@ systemctl disable xxx
 mv /etc/systemd/system/xxx.service /etc/systemd/system/xxx.service.backup
 
 
-鳥哥認識系統服務 (daemons)
-http://linux.vbird.org/linux_basic/0560daemons.php#systemd_cfg
+[鳥哥認識系統服務](%E9%B3%A5%E5%93%A5%E8%AA%8D%E8%AD%98%E7%B3%BB%E7%B5%B1%E6%9C%8D%E5%8B%99%20%28daemons%29%20http://linux.vbird.org/linux_basic/0560daemons.php#systemd_cfg)
+
 
 
 
