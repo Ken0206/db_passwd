@@ -63,6 +63,8 @@ systemctl disable xxx
 mv /etc/systemd/system/xxx.service /etc/systemd/system/xxx.service.backup
 
 
+鳥哥認識系統服務 (daemons)
+http://linux.vbird.org/linux_basic/0560daemons.php#systemd_cfg
 
 
 
@@ -98,7 +100,4 @@ mv /etc/init/xxx.conf /etc/init/xxx.conf.backup
 initctl reload-configuration
 
 
-
-鳥哥認識系統服務 (daemons)
-http://linux.vbird.org/linux_basic/0560daemons.php#systemd_cfg
 ```
