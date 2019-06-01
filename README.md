@@ -61,15 +61,12 @@ systemctl stop xxx
 systemctl stop xxx
 systemctl disable xxx
 mv /etc/systemd/system/xxx.service /etc/systemd/system/xxx.service.backup
+```
+
+[鳥哥認識系統服務](http://linux.vbird.org/linux_basic/0560daemons.php#systemd_cfg)
 
 
-鳥哥認識系統服務 - http://linux.vbird.org/linux_basic/0560daemons.php#systemd_cfg
-
-
-
-
-
-
+```
 RHEL6 / CentOS6
 
 
