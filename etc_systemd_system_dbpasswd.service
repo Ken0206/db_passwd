@@ -1,5 +1,5 @@
 [Unit]
-Description=daemontools Start supervise
+Description=watch password changed
 After=getty.target
 
 [Service]
